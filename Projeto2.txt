@@ -1,4 +1,3 @@
-console.log(teste2
+console.log("teste2")
 
-console.log(Vai dar certo sim.
-))
+console.log("Vai dar certo sim.")
