@@ -1,2 +1,4 @@
 console.log(teste2
-)
+
+console.log(Vai dar certo sim.
+))
